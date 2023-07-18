@@ -29,19 +29,43 @@ Man kann eine einige Zeile Bash-Code schreiben, aber auch Dateien anlegen, die l
 
 ## Basic commands
 
-| Befehl |funktion| 
-| ---- | ---- |
-| touch    | create file |
-| mkdir    | create folder |
-| rm | remove |
-| cp | copy |
-| mv | move or rename |
-| cat | print content to comand line |
-| echo | echo |
-| grep | suchen |
-| date | Datum anzeigen |
-| pwd | Aktuellen Pfad anzeigen |
-| ls | Dateien anzeigen |
+### touch
+Datei erstellen
+
+### mkdir
+Ordner erstellen
+
+### rm
+Datei löschen / Ordner löschen
+
+### cp
+Kopieren
+
+### mv
+Verschieben / Uubenennen
+
+### cat
+Inhalt anzeigen
+
+### echo
+Ausgabe
+
+### curl
+Upload / Download
+
+### wget
+Download?
+
+### grep
+Suchen
+
+### pwd
+Aktuelles Verzeichnis
+
+### ls
+Dateien und Ordner anzeigen
+
+
 
 ---
 
