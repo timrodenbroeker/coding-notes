@@ -48,13 +48,19 @@ Vim ist ein Text-Editor für die so genannte Command-Line.
 
 
 ### Search
+Search mode
+```
+/pattern
+```
+`n` drücken um zur nächsten Vorkommen des Suchbegriffs zu navigieren
 
-abc
+---
+
 
 ### Search and Replace
-
+```
 :[range]s/{pattern}/{string}/[flags]
-
+```
 ---
 
 ## Command Mode
