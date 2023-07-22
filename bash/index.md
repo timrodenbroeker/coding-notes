@@ -65,7 +65,10 @@ Aktuelles Verzeichnis
 ### ls
 Dateien und Ordner anzeigen
 
-
+### sed
+```
+sed -i 's/foo/bar/g' *
+```
 
 ---
 
