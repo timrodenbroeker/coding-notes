@@ -1,13 +1,3 @@
----
-title: "Vim"
-date: 2023-06-18T01:35:47+02:00
-tags:
-categories:
-draft: true
-featured_image: "/images/vimthumb.png"
-summary: "summary here"
----
-
 ## Warum Vim?
 
 - Schreibmaschine

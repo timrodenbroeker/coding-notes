@@ -4,7 +4,9 @@ run
 git config --global credential.helper store
 ```
 then
-```git pull```
+```
+git pull
+```
 
 ---
 
