@@ -29,16 +29,7 @@ Vim ist ein Text-Editor für die so genannte Command-Line.
 
 ---
 
-## Command Line Mode
-
-| Command | Funktion                      |
-| ------- | ----------------------------- |
-| :w      | save                          |
-| :q      | quit                          |
-
-
-### Search
-Search mode
+## Search mode
 ```
 /pattern
 ```
@@ -51,6 +42,11 @@ Search mode
 ```
 :[range]s/{pattern}/{string}/[flags]
 ```
+---
+
+### Undo und Redo
+Undo macht man mit `u` und Redo mit `ctrl+r`
+
 ---
 
 ## Command Mode
