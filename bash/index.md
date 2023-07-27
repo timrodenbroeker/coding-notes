@@ -70,6 +70,12 @@ Dateien und Ordner anzeigen
 sed -i 's/foo/bar/g' *
 ```
 
+### history
+history durchsuchen 
+```
+history | grep "pandoc"
+```
+
 ---
 
 ## Variables
