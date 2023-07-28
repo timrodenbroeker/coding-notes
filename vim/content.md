@@ -34,7 +34,7 @@ Vim ist ein Text-Editor für die so genannte Command-Line.
 /pattern
 ```
 `n` drücken um zur nächsten Vorkommen des Suchbegriffs zu navigieren
-
+`*` macht dasselbe (?)
 ---
 
 
@@ -83,7 +83,21 @@ Undo macht man mit `u` und Redo mit `ctrl+r`
 
 - Die Settings für Vim finden sich in .vimrc
 
+---
 
+# Nerdtree
+
+## Tab Datei in neuem Tab wechseln
+Einfach mit `t` statt mit `enter` öffnen
+
+## Refresh
+`r`
+# Settings
+
+## Wörter in die nächste Zeile laufen lassen statt sie umzubrechen
+```
+:set linebreak
+```
 
 
 ---
@@ -95,4 +109,5 @@ Undo macht man mit `u` und Redo mit `ctrl+r`
 - https://www.youtube.com/channel/UCd3dNckv1Za2coSaHGHl5aA
 - https://neovim.io/
 - https://vimawesome.com/
+
 

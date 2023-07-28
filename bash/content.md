@@ -108,6 +108,10 @@ Appends the existing file, or creates a file if the file of the mentioned name i
 
 ```
 
+```
+cat *.txt >> all.txt
+```
+
 
 ---
 
@@ -115,4 +119,24 @@ Appends the existing file, or creates a file if the file of the mentioned name i
 
 - https://youtu.be/I4EWvMFj37g
 - https://google.github.io/styleguide/shellguide.html
+
+# ls
+
+## Nur Dateien mit bestimmter Endung anzeigen
+```
+ls *.{mp3,exe,mp4}
+```
+
+oder
+
+```
+ls *.mp4 *.mp3 *.exe
+```
+
+oder
+
+```
+find . -iregex '.*\.\(mp3\|mp4\|exe\)' -printf '%f\n'
+```
+
 
